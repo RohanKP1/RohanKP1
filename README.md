@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @RohanKP1
 - 👀 I’m interested in Learning new Things
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on some Projects
 - 📫 How to reach me my Gmail : rohankp5922@gmail.com
 
